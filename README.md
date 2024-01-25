@@ -1,5 +1,3 @@
-# README for CSC3022F Assignment 5
-
 ## ValueIteration.py
 ValueIteration.py implements an algorithm which is capable of determining the best policy (path) for an agent traversing a grid. 
 This file contains its main method, which implements the necessary algorithms to determine the agents optimal policy. 
